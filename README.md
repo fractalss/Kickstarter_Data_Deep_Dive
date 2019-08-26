@@ -1,10 +1,8 @@
-# Unit 1 | Assignment - KickStart My Chart
-
 ## Background
 
 Over two billion dollars have been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the over 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success. For this week's homework, you will organize and analyze a database of four thousand past projects in order to uncover any hidden trends.
+Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success. Organize and analyze a database of four thousand past projects in order to uncover any hidden trends.
 
 ## Instructions
 
@@ -78,13 +76,3 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
   * Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematic formulae, find the percentage of projects which were successful, failed, or were canceled per goal range.
 
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
-
-## Submission
-
-* To submit, please upload the solution and files to a Github repo, dropbox, or google drive and submit the link to <https://bootcampspot.com/>.
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2017. All Rights Reserved.
